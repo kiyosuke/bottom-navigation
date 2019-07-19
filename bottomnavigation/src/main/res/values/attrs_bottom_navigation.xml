@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomNavigation">
+        <attr name="tabTextColor" format="color|reference" />
+        <attr name="tabIconTint" format="color|reference" />
+    </declare-styleable>
+</resources>
